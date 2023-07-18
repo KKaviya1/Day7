@@ -1,0 +1,8 @@
+F:\Day - 7\excepthandling 1\excepthandling 1\bin\Debug\excepthandling 1.exe.config
+F:\Day - 7\excepthandling 1\excepthandling 1\bin\Debug\excepthandling 1.exe
+F:\Day - 7\excepthandling 1\excepthandling 1\bin\Debug\excepthandling 1.pdb
+F:\Day - 7\excepthandling 1\excepthandling 1\obj\Debug\excepthandling 1.csproj.AssemblyReference.cache
+F:\Day - 7\excepthandling 1\excepthandling 1\obj\Debug\excepthandling 1.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\excepthandling 1\excepthandling 1\obj\Debug\excepthandling 1.csproj.CoreCompileInputs.cache
+F:\Day - 7\excepthandling 1\excepthandling 1\obj\Debug\excepthandling 1.exe
+F:\Day - 7\excepthandling 1\excepthandling 1\obj\Debug\excepthandling 1.pdb

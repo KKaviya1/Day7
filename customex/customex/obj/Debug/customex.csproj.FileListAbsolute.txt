@@ -1,0 +1,8 @@
+F:\Day - 7\customex\customex\bin\Debug\customex.exe.config
+F:\Day - 7\customex\customex\bin\Debug\customex.exe
+F:\Day - 7\customex\customex\bin\Debug\customex.pdb
+F:\Day - 7\customex\customex\obj\Debug\customex.csproj.AssemblyReference.cache
+F:\Day - 7\customex\customex\obj\Debug\customex.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\customex\customex\obj\Debug\customex.csproj.CoreCompileInputs.cache
+F:\Day - 7\customex\customex\obj\Debug\customex.exe
+F:\Day - 7\customex\customex\obj\Debug\customex.pdb

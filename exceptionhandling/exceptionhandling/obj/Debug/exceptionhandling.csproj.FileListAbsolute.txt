@@ -1,0 +1,8 @@
+F:\Day - 7\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+F:\Day - 7\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+F:\Day - 7\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+F:\Day - 7\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.AssemblyReference.cache
+F:\Day - 7\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.CoreCompileInputs.cache
+F:\Day - 7\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+F:\Day - 7\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb

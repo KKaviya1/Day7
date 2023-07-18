@@ -1,0 +1,8 @@
+F:\Day - 7\structex\structex\bin\Debug\structex.exe.config
+F:\Day - 7\structex\structex\bin\Debug\structex.exe
+F:\Day - 7\structex\structex\bin\Debug\structex.pdb
+F:\Day - 7\structex\structex\obj\Debug\structex.csproj.AssemblyReference.cache
+F:\Day - 7\structex\structex\obj\Debug\structex.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\structex\structex\obj\Debug\structex.csproj.CoreCompileInputs.cache
+F:\Day - 7\structex\structex\obj\Debug\structex.exe
+F:\Day - 7\structex\structex\obj\Debug\structex.pdb

@@ -1,0 +1,8 @@
+F:\Day - 7\directory\directory\bin\Debug\directory.exe.config
+F:\Day - 7\directory\directory\bin\Debug\directory.exe
+F:\Day - 7\directory\directory\bin\Debug\directory.pdb
+F:\Day - 7\directory\directory\obj\Debug\directory.csproj.AssemblyReference.cache
+F:\Day - 7\directory\directory\obj\Debug\directory.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\directory\directory\obj\Debug\directory.csproj.CoreCompileInputs.cache
+F:\Day - 7\directory\directory\obj\Debug\directory.exe
+F:\Day - 7\directory\directory\obj\Debug\directory.pdb

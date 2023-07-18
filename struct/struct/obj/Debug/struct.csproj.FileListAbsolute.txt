@@ -1,0 +1,8 @@
+F:\Day - 7\struct\struct\bin\Debug\@struct.exe.config
+F:\Day - 7\struct\struct\bin\Debug\@struct.exe
+F:\Day - 7\struct\struct\bin\Debug\@struct.pdb
+F:\Day - 7\struct\struct\obj\Debug\struct.csproj.AssemblyReference.cache
+F:\Day - 7\struct\struct\obj\Debug\struct.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\struct\struct\obj\Debug\struct.csproj.CoreCompileInputs.cache
+F:\Day - 7\struct\struct\obj\Debug\@struct.exe
+F:\Day - 7\struct\struct\obj\Debug\@struct.pdb

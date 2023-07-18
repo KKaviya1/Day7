@@ -1,0 +1,8 @@
+F:\Day - 7\dircreate\dircreate\bin\Debug\dircreate.exe.config
+F:\Day - 7\dircreate\dircreate\bin\Debug\dircreate.exe
+F:\Day - 7\dircreate\dircreate\bin\Debug\dircreate.pdb
+F:\Day - 7\dircreate\dircreate\obj\Debug\dircreate.csproj.AssemblyReference.cache
+F:\Day - 7\dircreate\dircreate\obj\Debug\dircreate.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\dircreate\dircreate\obj\Debug\dircreate.csproj.CoreCompileInputs.cache
+F:\Day - 7\dircreate\dircreate\obj\Debug\dircreate.exe
+F:\Day - 7\dircreate\dircreate\obj\Debug\dircreate.pdb
